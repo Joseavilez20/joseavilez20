@@ -20,10 +20,10 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://joseavilez20.gitlab.io/my-portfolio/">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/joseavilespacheco/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:YOUR_EMAIL@example.com">
@@ -255,11 +255,11 @@ This profile represents a living architecture of growth:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=FACC15&text_color=CBD5E1" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joseavilez20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=FACC15&text_color=CBD5E1" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=A78BFA&text_color=CBD5E1" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseavilez20&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=A78BFA&text_color=CBD5E1" alt="Top languages" />
 </p>
 
 ---
@@ -267,10 +267,10 @@ This profile represents a living architecture of growth:
 ## Connect
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/joseavilez20">
     <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/joseavilespacheco/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:YOUR_EMAIL@example.com">
