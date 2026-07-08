@@ -2,13 +2,6 @@
   <img src="./assets/neural-faith-architecture.svg" alt="The Lord-Centered AI Prompt Engineer and Workflow Architect — AI, Software, Automation, Leadership and Faith" width="100%" />
 </p>
 
-<h2 align="center">The Lord-Centered AI Prompt Engineer & Workflow Architect</h2>
-
-<p align="center">
-  <em>“And whatsoever ye do, do it heartily, as to the Lord, and not unto men;”</em><br/>
-  <strong>Colossians 3:23 — KJV</strong>
-</p>
-
 <p align="center">
   <a href="https://joseavilez20.gitlab.io/my-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0F172A?style=for-the-badge&logo=gitlab&logoColor=white" alt="Portfolio" />
@@ -16,10 +9,19 @@
   <a href="https://www.linkedin.com/in/joseavilespacheco/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:joseavilesrg@gmail.com">
+  <a href="mailto:joseok56@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+<div align="center">
+  <h2 >The Lord-Centered AI Prompt Engineer & Workflow Architect</h2>
+
+  <p>
+    <em>“And whatsoever ye do, do it heartily, as to the Lord, and not unto men;”</em><br/>
+    <strong>Colossians 3:23</strong>
+  </p>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=700&color=22D3EE&center=true&vCenter=true&width=900&lines=Designing+AI-assisted+workflows;Building+systems+with+structure+and+purpose;Connecting+people%2C+software%2C+agents+and+decisions;Growing+in+technology%2C+discipline+and+faith" alt="Typing animation: AI workflows, purpose, software, faith" />
@@ -204,17 +206,9 @@ This profile represents a living architecture of growth:
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=joseavilez20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=FACC15&text_color=CBD5E1" 
-    alt="Jose Aviles GitHub stats" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseavilez20&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=A78BFA&text_color=CBD5E1" 
-    alt="Jose Aviles top languages" 
-  />
+  <sub>
+    My GitHub profile is a continuous record of learning, building, documenting, validating, and improving.
+  </sub>
 </p>
 
 ---
