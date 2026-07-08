@@ -1,32 +1,22 @@
-<!--
-  GitHub Profile README — Neural Faith Architecture
-  Author: Jose Aviles
-
-  How to use:
-  1. Create a repository with the same name as your GitHub username.
-  2. Add this README.md in the root of that repository.
-  3. Create an assets folder and add: assets/neural-faith-architecture.svg
-  4. Replace the placeholder links below with your real GitHub, LinkedIn, portfolio, and email.
--->
-
 <p align="center">
-  <img src="./assets/neural-faith-architecture.svg" alt="Neural Faith Architecture — AI, Software, Automation, Leadership and Faith" width="100%" />
+  <img src="./assets/neural-faith-architecture.svg" alt="The Lord-Centered AI Prompt Engineer and Workflow Architect — AI, Software, Automation, Leadership and Faith" width="100%" />
 </p>
 
-<h1 align="center">Jose Aviles</h1>
+<h2 align="center">The Lord-Centered AI Prompt Engineer & Workflow Architect</h2>
 
-<h3 align="center">
-  AI Prompt Engineering • Data Science • Machine Learning • AI Workflows • Automation • Purpose-Driven Technology
-</h3>
+<p align="center">
+  <em>“And whatsoever ye do, do it heartily, as to the Lord, and not unto men;”</em><br/>
+  <strong>Colossians 3:23 — KJV</strong>
+</p>
 
 <p align="center">
   <a href="https://joseavilez20.gitlab.io/my-portfolio/">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0F172A?style=for-the-badge&logo=gitlab&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/joseavilespacheco/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:joseavilesrg@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -37,33 +27,29 @@
 
 ---
 
-## Neural Faith Architecture
-
 <table>
 <tr>
 <td width="58%" valign="top">
 
-### Who I Am
+## Who I Am
 
 I am building my professional path at the intersection of **Artificial Intelligence, software systems, automation, data, and collaborative execution**.
 
 My focus is not only to use AI tools, but to design structured systems where **people, processes, AI agents, data, code, and decision-making** work together with clarity.
 
-I am especially interested in:
+I am especially focused on:
 
-- AI Prompt Engineering
-- Data Science and Machine Learning
-- Robotics and automation concepts
-- Agentic AI workflows
-- AI-assisted software development
-- Cloud, DevOps, and scalable architecture
-- Collaborative teams supported by artificial intelligence
-- Technology projects guided by purpose and disciplined execution
+* AI Prompt Engineering
+* Agentic AI workflows
+* AI-assisted software development
+* Data Science and Machine Learning
+* Cloud, DevOps, and scalable architecture
+* Technology projects guided by purpose and disciplined execution
 
 </td>
 <td width="42%" valign="top">
 
-### Foundation
+## Foundation
 
 My technical journey is connected to a deeper personal foundation:
 
@@ -79,14 +65,14 @@ Technology should not become vanity. It should serve a higher purpose.
 
 ---
 
-## Dynamic Knowledge Network
+## Knowledge Architecture
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Prompt%20Engineering-22D3EE?style=for-the-badge&logo=openai&logoColor=0F172A" />
-  <img src="https://img.shields.io/badge/Data%20Science-7C3AED?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FACC15?style=for-the-badge&logo=tensorflow&logoColor=0F172A" />
-  <img src="https://img.shields.io/badge/AI%20Automation-06B6D4?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agentic%20Workflows-A78BFA?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Prompt%20Engineering-22D3EE?style=for-the-badge&logo=openai&logoColor=0F172A" alt="AI Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Data%20Science-7C3AED?style=for-the-badge&logo=python&logoColor=white" alt="Data Science" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FACC15?style=for-the-badge&logo=tensorflow&logoColor=0F172A" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/AI%20Automation-06B6D4?style=for-the-badge&logo=githubactions&logoColor=white" alt="AI Automation" />
+  <img src="https://img.shields.io/badge/Agentic%20Workflows-A78BFA?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Agentic Workflows" />
 </p>
 
 ```mermaid
@@ -111,52 +97,15 @@ flowchart LR
 
 ---
 
-## Current Building Direction
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### AI Systems
-
-Prompt design, AI workflows, agent behavior, structured instructions, and practical AI use cases.
-
-</td>
-<td align="center" width="25%">
-
-### Software Architecture
-
-Designing clear technical flows that connect frontend, backend, cloud, data, automation, and delivery.
-
-</td>
-<td align="center" width="25%">
-
-### Team Orchestration
-
-Using AI to improve collaboration, task clarity, role definition, validation, documentation, and execution.
-
-</td>
-<td align="center" width="25%">
-
-### Purpose & Discipline
-
-Growing with spiritual direction, humility, focus, obedience, and separation from empty distractions.
-
-</td>
-</tr>
-</table>
-
----
-
 ## Architecture of My Work
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Learn-111827?style=flat-square&logo=readme&logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/Design-111827?style=flat-square&logo=figma&logoColor=A78BFA" />
-  <img src="https://img.shields.io/badge/Build-111827?style=flat-square&logo=github&logoColor=F8FAFC" />
-  <img src="https://img.shields.io/badge/Automate-111827?style=flat-square&logo=githubactions&logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/Validate-111827?style=flat-square&logo=checkmarx&logoColor=FACC15" />
-  <img src="https://img.shields.io/badge/Improve-111827?style=flat-square&logo=target&logoColor=A7F3D0" />
+  <img src="https://img.shields.io/badge/Learn-111827?style=flat-square&logo=readme&logoColor=22D3EE" alt="Learn" />
+  <img src="https://img.shields.io/badge/Design-111827?style=flat-square&logo=figma&logoColor=A78BFA" alt="Design" />
+  <img src="https://img.shields.io/badge/Build-111827?style=flat-square&logo=github&logoColor=F8FAFC" alt="Build" />
+  <img src="https://img.shields.io/badge/Automate-111827?style=flat-square&logo=githubactions&logoColor=22D3EE" alt="Automate" />
+  <img src="https://img.shields.io/badge/Validate-111827?style=flat-square&logo=checkmarx&logoColor=FACC15" alt="Validate" />
+  <img src="https://img.shields.io/badge/Improve-111827?style=flat-square&logo=target&logoColor=A7F3D0" alt="Improve" />
 </p>
 
 ```text
@@ -185,26 +134,26 @@ USEFUL TECHNOLOGY SOLUTION
 
 ### AI & Data
 
-- Prompt Engineering
-- AI-assisted reasoning
-- Data analysis
-- Machine Learning foundations
-- Intelligent automation
-- Agent orchestration
-- Knowledge workflows
+* Prompt Engineering
+* AI-assisted reasoning
+* Data analysis
+* Machine Learning foundations
+* Intelligent automation
+* Agent orchestration
+* Knowledge workflows
 
 </td>
 <td width="50%" valign="top">
 
 ### Software & Delivery
 
-- Software architecture
-- GitHub workflows
-- Cloud and DevOps learning
-- Documentation systems
-- Team execution flows
-- Technical validation
-- Product-oriented thinking
+* Software architecture
+* GitHub workflows
+* Cloud and DevOps learning
+* Documentation systems
+* Team execution flows
+* Technical validation
+* Product-oriented thinking
 
 </td>
 </tr>
@@ -220,25 +169,25 @@ USEFUL TECHNOLOGY SOLUTION
 
 ### Professional Principles
 
-- Build with clarity
-- Think in systems
-- Learn continuously
-- Execute with discipline
-- Document decisions
-- Validate before scaling
-- Use AI as a force multiplier
+* Build with clarity
+* Think in systems
+* Learn continuously
+* Execute with discipline
+* Document decisions
+* Validate before scaling
+* Use AI as a force multiplier
 
 </td>
 <td width="50%" valign="top">
 
 ### Spiritual Principles
 
-- Keep my eyes on Jesus Christ
-- Stand on the Word of God
-- Grow in obedience and humility
-- Separate from vanity and distraction
-- Serve with purpose
-- Let character guide ambition
+* Keep my eyes on Jesus Christ
+* Stand on the Word of God
+* Grow in obedience and humility
+* Separate from vanity and distraction
+* Serve with purpose
+* Let character guide ambition
 
 </td>
 </tr>
@@ -255,27 +204,17 @@ This profile represents a living architecture of growth:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joseavilez20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=FACC15&text_color=CBD5E1" alt="GitHub stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=joseavilez20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=FACC15&text_color=CBD5E1" 
+    alt="Jose Aviles GitHub stats" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseavilez20&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=A78BFA&text_color=CBD5E1" alt="Top languages" />
-</p>
-
----
-
-## Connect
-
-<p align="center">
-  <a href="https://github.com/joseavilez20">
-    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/joseavilespacheco/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseavilez20&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=A78BFA&text_color=CBD5E1" 
+    alt="Jose Aviles top languages" 
+  />
 </p>
 
 ---
