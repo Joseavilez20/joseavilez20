@@ -1,0 +1,144 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">AI Engineer GitHub Banner</title>
+  <desc id="desc">Animated futuristic GitHub banner with AI Prompt Engineering, Data Science, Agentic Workflows, and Purposeful Automation connected through flowing dashed lines, grounded in a faith-centered foundation.</desc>
+  <defs>
+    <radialGradient id="halo" cx="50%" cy="35%" r="70%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.32"/>
+      <stop offset="38%" stop-color="#7C3AED" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#020617" stop-opacity="1"/>
+    </radialGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0F172A" stop-opacity="0.94"/>
+      <stop offset="100%" stop-color="#111827" stop-opacity="0.82"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softShadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+<style><![CDATA[
+      .bg-grid { stroke: #1E293B; stroke-width: 1; opacity: .38; }
+      .ambient { stroke-width: 1.2; opacity: .30; stroke-dasharray: 7 12; animation: flow 8s linear infinite; }
+      .ambient2 { stroke-width: 1; opacity: .22; stroke-dasharray: 4 10; animation: flow 12s linear infinite reverse; }
+      .flow { fill:none; stroke-width:2.3; stroke-dasharray: 8 10; animation: flow 4s linear infinite; }
+      .flow-slow { fill:none; stroke-width:2; stroke-dasharray: 7 12; animation: flow 5.8s linear infinite; }
+      .cyan-stroke { stroke:#22D3EE;; }
+      .purple-stroke { stroke:#A78BFA;; }
+      .gold-stroke { stroke:#FACC15;; }
+      .node { fill:#22D3EE; filter:url(#glow); animation:pulse 2.8s ease-in-out infinite; }
+      .node-purple { fill:#A78BFA; filter:url(#glow); animation:pulse 3.3s ease-in-out infinite; }
+      .node-gold { fill:#FACC15; filter:url(#glow); animation:pulse 3.8s ease-in-out infinite; }
+      .card { fill:url(#panel); stroke:#334155; stroke-width:1; filter:url(#softShadow); }
+      .panel-inner { fill:#020617; opacity:.48; stroke:#1E293B; }
+      .text-main { font-family:Inter, Segoe UI, Arial, sans-serif; fill:#F8FAFC; letter-spacing:1.2px; font-weight:800; }
+      .text-sub { font-family:Inter, Segoe UI, Arial, sans-serif; fill:#CBD5E1; letter-spacing:.7px; font-weight:500; }
+      .text-small { font-family:Inter, Segoe UI, Arial, sans-serif; fill:#94A3B8; letter-spacing:.5px; font-weight:600; }
+      .tag { font-family:Inter, Segoe UI, Arial, sans-serif; fill:#E0F2FE; font-size:15px; font-weight:700; }
+      .scan { opacity:.15; animation:scan 6s ease-in-out infinite; }
+      .float { animation:float 6s ease-in-out infinite; }
+      .float2 { animation:float 8s ease-in-out infinite reverse; }
+      @keyframes pulse { 0%,100%{opacity:.55; transform:scale(1);} 50%{opacity:1; transform:scale(1.22);} }
+      @keyframes flow { to { stroke-dashoffset:-140; } }
+      @keyframes scan { 0%,100%{transform:translateY(-55px);} 50%{transform:translateY(62px);} }
+      @keyframes float { 0%,100%{transform:translateY(0);} 50%{transform:translateY(-8px);} }
+    ]]></style>
+  </defs>
+
+  <rect width="1200" height="430" fill="#020617"/>
+  <rect width="1200" height="430" fill="url(#halo)"/>
+
+  <g opacity="0.56">
+    <path class="bg-grid" d="M0 70H1200M0 140H1200M0 210H1200M0 280H1200M0 350H1200"/>
+    <path class="bg-grid" d="M80 0V430M180 0V430M280 0V430M380 0V430M480 0V430M580 0V430M680 0V430M780 0V430M880 0V430M980 0V430M1080 0V430"/>
+  </g>
+
+  <rect class="scan" x="0" y="170" width="1200" height="62" fill="#22D3EE"/>
+
+  <!-- ambient network -->
+  <g>
+    <path class="ambient" stroke="#67E8F9" d="M70 90C180 118 220 175 315 184C428 194 490 116 602 133C724 153 780 251 874 248C981 245 1034 175 1140 202"/>
+    <path class="ambient" stroke="#C4B5FD" d="M78 320C182 254 276 303 362 255C450 207 523 237 611 215C707 192 780 120 892 145C995 169 1046 286 1140 246"/>
+    <path class="ambient2" stroke="#22D3EE" d="M152 210C245 138 318 141 405 183C484 221 532 302 620 297C720 291 768 193 846 194C948 196 1020 341 1110 308"/>
+    <path class="ambient2" stroke="#FACC15" d="M210 365C291 319 329 217 422 215C511 212 569 340 659 334C764 326 809 227 902 222C980 218 1049 247 1118 282"/>
+  </g>
+
+  <!-- outer skill boxes -->
+  <g opacity="0.98">
+    <rect x="54" y="108" rx="16" width="210" height="44" fill="#0B1220" stroke="#1E40AF"/>
+    <text x="79" y="136" class="tag">AI Prompt Engineering</text>
+
+    <rect x="82" y="262" rx="16" width="150" height="44" fill="#0B1220" stroke="#4C1D95"/>
+    <text x="106" y="290" class="tag" fill="#C4B5FD">Data Science</text>
+
+    <rect x="930" y="108" rx="16" width="188" height="44" fill="#0B1220" stroke="#155E75"/>
+    <text x="954" y="136" class="tag" fill="#67E8F9">Agentic Workflows</text>
+
+    <rect x="900" y="262" rx="16" width="230" height="44" fill="#0B1220" stroke="#713F12"/>
+    <text x="924" y="290" class="tag" fill="#FDE68A">Purposeful Automation</text>
+  </g>
+
+  <!-- central panel -->
+  <g>
+    <rect class="card" x="300" y="70" rx="28" width="600" height="286"/>
+    <rect class="panel-inner" x="322" y="92" rx="22" width="556" height="242"/>
+    <text x="600" y="138" text-anchor="middle" class="text-main" font-size="40">AI ENGINEER</text>
+    <text x="600" y="168" text-anchor="middle" class="text-sub" font-size="16">Connected Intelligence • Learning Systems • Purposeful Delivery</text>
+    <text x="600" y="192" text-anchor="middle" class="text-small" font-size="13">PROMPTS → AGENTS → DATA → DECISIONS → AUTOMATION</text>
+
+    <!-- main workflow line in background -->
+    <path class="flow cyan-stroke" d="M322 249H878"/>
+
+    <g>
+      <rect x="346" y="226" rx="14" width="108" height="46" fill="#082F49" stroke="#22D3EE"/>
+      <text x="400" y="245" text-anchor="middle" class="text-small" font-size="11">Prompt</text>
+      <text x="400" y="261" text-anchor="middle" class="text-small" font-size="11">Design</text>
+
+      <rect x="478" y="226" rx="14" width="116" height="46" fill="#0F2A3D" stroke="#67E8F9"/>
+      <text x="536" y="245" text-anchor="middle" class="text-small" font-size="11">Agent</text>
+      <text x="536" y="261" text-anchor="middle" class="text-small" font-size="11">Loops</text>
+
+      <rect x="618" y="226" rx="14" width="112" height="46" fill="#2E1065" stroke="#A78BFA"/>
+      <text x="674" y="245" text-anchor="middle" class="text-small" font-size="11">Data</text>
+      <text x="674" y="261" text-anchor="middle" class="text-small" font-size="11">Signals</text>
+
+      <rect x="754" y="226" rx="14" width="100" height="46" fill="#422006" stroke="#FACC15"/>
+      <text x="804" y="245" text-anchor="middle" class="text-small" font-size="11">Action</text>
+      <text x="804" y="261" text-anchor="middle" class="text-small" font-size="11">Output</text>
+
+    </g>
+
+    <text x="375" y="306" class="text-small" font-size="12">AI agents coordinating context, reasoning, and execution</text>
+    <text x="375" y="323" class="text-small" font-size="12">to build systems that learn, connect, and deliver with purpose.</text>
+  </g>
+
+  <!-- structured workflow connections -->
+  <g>
+    <!-- primary workflow connectors -->
+    <path class="flow cyan-stroke" d="M264 130H300V249H322"/>
+    <path class="flow cyan-stroke" d="M878 249H900V284"/>
+
+    <!-- one data input line -->
+    <path id="dataFeedPath" class="flow-slow purple-stroke" d="M232 284H280V336H674V272"/>
+
+    <!-- one orchestration line -->
+    <path id="agenticPath" class="flow-slow gold-stroke" d="M536 226V208H880V130H930"/>
+
+    <!-- junction nodes -->
+
+    <!-- moving light particles / fireflies -->
+  </g>
+
+  <!-- foundation -->
+  <g>
+    <rect x="300" y="366" rx="20" width="600" height="46" fill="#111827" stroke="#FACC15" opacity="0.94"/>
+    <text x="600" y="394" text-anchor="middle" class="text-sub" font-size="15">Foundation: Word of God • Eyes on Jesus Christ • Technology with Purpose</text>
+  </g>
+
+  <text x="42" y="394" class="text-small" font-size="12" opacity="0.7">build → learn → automate → lead</text>
+  <text x="1000" y="394" class="text-small" font-size="12" opacity="0.7">faith → discipline → purpose</text>
+</svg>

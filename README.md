@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/neural-faith-architecture.svg" alt="The Lord-Centered AI Prompt Engineer and Workflow Architect — AI, Software, Automation, Leadership and Faith" width="100%" />
+  <img src="./assets/neural-faith-architecture-workflow.svg" alt="The Lord-Centered AI Prompt Engineer and Workflow Architect — AI, Software, Automation, Leadership and Faith" width="100%" />
 </p>
 
 <p align="center">
