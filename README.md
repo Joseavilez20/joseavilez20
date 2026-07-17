@@ -78,23 +78,37 @@ Technology should not become vanity. It should serve a higher purpose.
 </p>
 
 ```mermaid
-flowchart LR
-    A[Purpose] --> B[Word of God]
-    B --> C[Discipline]
-    C --> D[AI Learning]
-    D --> E[Prompt Engineering]
-    E --> F[AI Agents]
-    F --> G[Automation Flows]
-    G --> H[Software Projects]
-    H --> I[Collaborative Teams]
-    I --> J[Technology With Purpose]
+architecture-beta
+    group wordofgod(mdi:book-open-page-variant)[Word of God]
 
-    D --> K[Data Science]
-    K --> L[Machine Learning]
-    L --> M[Robotics]
-    M --> G
+    service purpose(mdi:target)[Purpose] in wordofgod
+    service discipline(mdi:compass-outline)[Discipline] in wordofgod
+    service ailearning(mdi:brain)[AI Learning] in wordofgod
+    service promptengineering(mdi:message-text-outline)[Prompt Engineering] in wordofgod
+    service aiagents(mdi:robot-outline)[AI Agents] in wordofgod
+    service automationflows(mdi:autorenew)[Automation Flows] in wordofgod
+    service softwareprojects(mdi:code-braces)[Software Projects] in wordofgod
+    service collaborativeteams(mdi:account-group)[Collaborative Teams] in wordofgod
+    service technologypurpose(mdi:earth)[Technology With Purpose] in wordofgod
 
-    B --> J
+    service datascience(mdi:database)[Data Science] in wordofgod
+    service machinelearning(mdi:chart-scatter-plot)[Machine Learning] in wordofgod
+    service robotics(mdi:robot-industrial)[Robotics] in wordofgod
+
+    purpose:R -- L:discipline
+    discipline:R -- L:ailearning
+    ailearning:R -- L:promptengineering
+    promptengineering:R -- L:aiagents
+    aiagents:R -- L:automationflows
+    automationflows:R -- L:softwareprojects
+    softwareprojects:R -- L:collaborativeteams
+    collaborativeteams:R -- L:technologypurpose
+
+    ailearning:B -- T:datascience
+    datascience:R -- L:machinelearning
+    machinelearning:R -- L:robotics
+    robotics:T -- B:automationflows
+
 ```
 
 ---
