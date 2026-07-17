@@ -77,7 +77,11 @@ Technology should not become vanity. It should serve a higher purpose.
   <img src="https://img.shields.io/badge/Agentic%20Workflows-A78BFA?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Agentic Workflows" />
 </p>
 
-```mermaid
+<div align="center">
+  <img src="assets/diagram.png" alt="Diagram" />
+</div>
+
+<!--```mermaid
 architecture-beta
     group wordofgod(mdi:book-open-page-variant)[Word of God]
 
@@ -108,8 +112,8 @@ architecture-beta
     datascience:R -- L:machinelearning
     machinelearning:R -- L:robotics
     robotics:T -- B:automationflows
-
 ```
+-->
 
 ---
 
