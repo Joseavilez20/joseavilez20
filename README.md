@@ -1,4 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=joseavilez20&color=blue)
 <p align="center">
   <img src="./assets/neural-faith-architecture-workflow.svg" alt="The Lord-Centered AI Prompt Engineer and Workflow Architect — AI, Software, Automation, Leadership and Faith" width="100%" />
 </p>
@@ -260,3 +259,4 @@ Faith grounds my purpose. Discipline shapes my habits. Together, they guide how 
 <p align="center">
   <strong>Building with intelligence. Growing with purpose. Standing on faith.</strong>
 </p>
+![Profile Views](https://komarev.com/ghpvc/?username=joseavilez20&color=blue)
