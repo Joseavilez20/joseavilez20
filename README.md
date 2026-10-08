@@ -240,24 +240,22 @@ USEFUL TECHNOLOGY SOLUTION
 
 ## GitHub as a Living System
 
-This profile represents a living architecture of growth:
+My GitHub profile is a continuous record of learning, building AI systems and software, documenting decisions, and improving through validation.
 
 <p align="center">
-  <strong>Faith</strong> → <strong>Discipline</strong> → <strong>Learning</strong> → <strong>AI Systems</strong> → <strong>Software Projects</strong> → <strong>Purposeful Impact</strong>
+  <strong>Learn</strong> → <strong>Build</strong> → <strong>Document</strong> → <strong>Validate</strong> → <strong>Improve</strong>
 </p>
 
+## Faith, Discipline & Purpose
+
+Faith grounds my purpose. Discipline shapes my habits. Together, they guide how I learn, build, lead, and serve.
+
 <p align="center">
-  <sub>
-    My GitHub profile is a continuous record of learning, building, documenting, validating, and improving.
-  </sub>
+  <strong>Faith</strong> → <strong>Discipline</strong> → <strong>Purposeful Action</strong> → <strong>Meaningful Impact</strong>
 </p>
 
 ---
 
 <p align="center">
   <strong>Building with intelligence. Growing with purpose. Standing on faith.</strong>
-</p>
-
-<p align="center">
-  <sub>AI • Software • Automation • Leadership • Faith • Discipline • Purpose</sub>
 </p>
