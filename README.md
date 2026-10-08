@@ -181,7 +181,7 @@ USEFUL TECHNOLOGY SOLUTION
 
 ---
 
-## GitHub Activity
+## GitHub Activity ![Profile Views](https://komarev.com/ghpvc/?username=joseavilez20&color=blue)
 
 <p align="center">
   <a href="https://github.com/joseavilez20">
@@ -259,4 +259,4 @@ Faith grounds my purpose. Discipline shapes my habits. Together, they guide how 
 <p align="center">
   <strong>Building with intelligence. Growing with purpose. Standing on faith.</strong>
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=joseavilez20&color=blue)
+
