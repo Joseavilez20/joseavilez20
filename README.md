@@ -186,7 +186,7 @@ USEFUL TECHNOLOGY SOLUTION
 <p align="center">
   <a href="https://github.com/joseavilez20">
     <img
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=joseavilez20&amp;layout=compact&amp;theme=transparent"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=joseavilez20&amp;layout=compact&amp;theme=tokyonight"
       alt="Top programming languages"
       height="170"
       align="center"
