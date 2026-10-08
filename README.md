@@ -194,7 +194,7 @@ USEFUL TECHNOLOGY SOLUTION
   </a>
   <a href="https://github.com/joseavilez20">
     <img
-      src="https://streak-stats.demolab.com/?user=joseavilez20&amp;theme=transparent"
+      src="https://streak-stats.demolab.com/?user=joseavilez20&amp;theme=tokyonight"
       alt="GitHub contribution streak"
       height="170"
       align="center"
