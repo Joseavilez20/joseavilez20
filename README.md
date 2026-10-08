@@ -185,12 +185,12 @@ USEFUL TECHNOLOGY SOLUTION
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=joseavilez20&amp;layout=compact&amp;theme=tokyonight"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=joseavilez20&amp;layout=compact&amp;theme=transparent"
     alt="Top programming languages"
     height="170"
   />
   <img
-    src="https://streak-stats.demolab.com/?user=joseavilez20&amp;theme=tokyonight"
+    src="https://streak-stats.demolab.com/?user=joseavilez20&amp;theme=transparent"
     alt="GitHub contribution streak"
     height="170"
   />
