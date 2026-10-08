@@ -181,6 +181,23 @@ USEFUL TECHNOLOGY SOLUTION
 
 ---
 
+## GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=joseavilez20&amp;layout=compact&amp;theme=tokyonight"
+    alt="Top programming languages"
+    height="170"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=joseavilez20&amp;theme=tokyonight"
+    alt="GitHub contribution streak"
+    height="170"
+  />
+</p>
+
+---
+
 ## Principles
 
 <table>
