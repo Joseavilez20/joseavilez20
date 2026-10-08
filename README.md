@@ -184,16 +184,22 @@ USEFUL TECHNOLOGY SOLUTION
 ## GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=joseavilez20&amp;layout=compact&amp;theme=transparent"
-    alt="Top programming languages"
-    height="170"
-  />
-  <img
-    src="https://streak-stats.demolab.com/?user=joseavilez20&amp;theme=transparent"
-    alt="GitHub contribution streak"
-    height="170"
-  />
+  <a href="https://github.com/joseavilez20">
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=joseavilez20&amp;layout=compact&amp;theme=transparent"
+      alt="Top programming languages"
+      height="170"
+      align="center"
+    />
+  </a>
+  <a href="https://github.com/joseavilez20">
+    <img
+      src="https://streak-stats.demolab.com/?user=joseavilez20&amp;theme=transparent"
+      alt="GitHub contribution streak"
+      height="170"
+      align="center"
+    />
+  </a>
 </p>
 
 ---
